@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sergioruanonavarro-code.github.io/finialabb/sitemap.xml
+Sitemap: https://finialab.github.io/finialab/sitemap.xml
