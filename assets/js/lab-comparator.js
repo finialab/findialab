@@ -70,7 +70,7 @@
     const url = URL.createObjectURL(blob); const a = document.createElement('a');
     a.href=url; a.download=`finialab-evaluaciones-ia-${new Date().toISOString().slice(0,10)}.csv`;
     document.body.append(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(url),1000);
-    const status=el('lab-status'); if(status) status.textContent='CSV exportado al dispositivo. No se ha enviado ningún dato a FinIA Lab.';
+    const status=el('lab-status'); if(status) status.textContent='CSV exportado al dispositivo. No se ha enviado ningún dato a FindIA Lab.';
   }
   document.addEventListener('submit', event => {
     if (event.target?.id === 'lab-form') { event.preventDefault(); register(event.target); }
