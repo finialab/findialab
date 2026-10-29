@@ -1,0 +1,5 @@
+﻿Recurso;URL relativa;Tipo;Uso principal;Limitaciones
+Laboratorio de pruebas de IA financiera;/laboratorio-pruebas-ia-financiera.html;Herramienta local;Registrar manualmente criterios y exportar evaluaciones a CSV;No llama modelos, no verifica automáticamente, no mide rentabilidad
+Auditor FARO;/herramienta-auditoria-faro.html;Checklist local;Evaluar fuente, actualidad, reproducibilidad y límites;Rúbrica editorial, no validada científicamente
+Calculadora de ratios;/calculadora-ratios.html;Calculadora local;Calcular ratios desde cifras introducidas;No valida fuente ni compara políticas contables
+Simulador de costes ETF;/calculadora-costes-etf.html;Calculadora local;Ilustrar el efecto de costes bajo una hipótesis fija;"No predice rentabilidad; omite varios costes e impuestos"

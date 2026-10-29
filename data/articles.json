@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Cómo analizar acciones con ChatGPT: método verificable",
+    "desc": "Aprende a investigar una acción con ChatGPT, usar fuentes oficiales, comprobar ratios y separar hechos, cálculos e hipótesis antes de sacar conclusiones.",
+    "category": "Herramientas de IA",
+    "color": "blue",
+    "minutes": 8,
+    "url": "guias/analizar-acciones-con-chatgpt/",
+    "keywords": "analizar acciones con chatgpt Cómo analizar acciones con ChatGPT: método verificable Aprende a investigar una acción con ChatGPT, usar fuentes oficiales, comprobar ratios y separar hechos, cálculos e hipótesis antes de sacar conclusiones. Herramientas de IA IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "ChatGPT vs Claude vs Gemini para tareas financieras",
+    "desc": "Compara asistentes de IA para leer documentos financieros mediante una prueba justa, criterios transparentes y comprobación de las respuestas.",
+    "category": "Herramientas de IA",
+    "color": "blue",
+    "minutes": 7,
+    "url": "guias/chatgpt-vs-claude-vs-gemini-finanzas/",
+    "keywords": "chatgpt vs claude vs gemini finanzas ChatGPT vs Claude vs Gemini para tareas financieras Compara asistentes de IA para leer documentos financieros mediante una prueba justa, criterios transparentes y comprobación de las respuestas. Herramientas de IA IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Prompts para análisis financiero: método FARO de verificación",
+    "desc": "Usa prompts que exijan fuentes, fechas, fórmulas, contradicciones y límites; incluye una rúbrica sencilla para auditar las respuestas.",
+    "category": "Herramientas de IA",
+    "color": "blue",
+    "minutes": 7,
+    "url": "guias/prompts-ia-analisis-financiero/",
+    "keywords": "prompts ia analisis financiero Prompts para análisis financiero: método FARO de verificación Usa prompts que exijan fuentes, fechas, fórmulas, contradicciones y límites; incluye una rúbrica sencilla para auditar las respuestas. Herramientas de IA IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo analizar un CSV financiero con ChatGPT de forma segura",
+    "desc": "Limpia un CSV financiero, detecta duplicados y errores de formato, valida cálculos y protege los datos antes de usar ChatGPT para analizarlos.",
+    "category": "Herramientas de IA",
+    "color": "blue",
+    "minutes": 7,
+    "url": "guias/analizar-csv-con-chatgpt/",
+    "keywords": "analizar csv con chatgpt Cómo analizar un CSV financiero con ChatGPT de forma segura Limpia un CSV financiero, detecta duplicados y errores de formato, valida cálculos y protege los datos antes de usar ChatGPT para analizarlos. Herramientas de IA IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo analizar un balance con IA: ratios y contexto",
+    "desc": "Guía para leer activos, pasivos, liquidez y deuda con IA, calcular ratios y evitar conclusiones erróneas al revisar un balance empresarial.",
+    "category": "Acciones y empresas",
+    "color": "green",
+    "minutes": 8,
+    "url": "guias/analizar-balance-empresa-con-ia/",
+    "keywords": "analizar balance empresa con ia Cómo analizar un balance con IA: ratios y contexto Guía para leer activos, pasivos, liquidez y deuda con IA, calcular ratios y evitar conclusiones erróneas al revisar un balance empresarial. Acciones y empresas IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Ratios financieros con IA: fórmulas y ejemplo calculado",
+    "desc": "Calcula margen operativo, ratio corriente, deuda neta sobre EBITDA y ROE con fórmulas visibles, datos comparables y un ejemplo reproducible.",
+    "category": "Acciones y empresas",
+    "color": "green",
+    "minutes": 7,
+    "url": "guias/ratios-financieros-con-ia/",
+    "keywords": "ratios financieros con ia Ratios financieros con IA: fórmulas y ejemplo calculado Calcula margen operativo, ratio corriente, deuda neta sobre EBITDA y ROE con fórmulas visibles, datos comparables y un ejemplo reproducible. Acciones y empresas IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo analizar resultados trimestrales con IA",
+    "desc": "Compara ingresos, márgenes, flujo de caja y previsiones con documentos oficiales y distingue los resultados publicados de las expectativas.",
+    "category": "Acciones y empresas",
+    "color": "green",
+    "minutes": 7,
+    "url": "guias/resumir-resultados-trimestrales-con-ia/",
+    "keywords": "resumir resultados trimestrales con ia Cómo analizar resultados trimestrales con IA Compara ingresos, márgenes, flujo de caja y previsiones con documentos oficiales y distingue los resultados publicados de las expectativas. Acciones y empresas IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo leer un informe anual con IA sin perder riesgos",
+    "desc": "Método para analizar un informe anual, contrastar afirmaciones en las notas y comparar riesgos con fuentes primarias y trazabilidad.",
+    "category": "Acciones y empresas",
+    "color": "green",
+    "minutes": 7,
+    "url": "guias/analizar-informe-anual-con-ia/",
+    "keywords": "analizar informe anual con ia Cómo leer un informe anual con IA sin perder riesgos Método para analizar un informe anual, contrastar afirmaciones en las notas y comparar riesgos con fuentes primarias y trazabilidad. Acciones y empresas IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo comparar ETF con IA: costes, réplica y seguimiento",
+    "desc": "Compara dos ETF usando sus documentos oficiales, índice, réplica, TER, tracking difference y otros factores sin depender solo de un ranking.",
+    "category": "ETF y carteras",
+    "color": "violet",
+    "minutes": 7,
+    "url": "guias/comparar-etf-con-ia/",
+    "keywords": "comparar etf con ia Cómo comparar ETF con IA: costes, réplica y seguimiento Compara dos ETF usando sus documentos oficiales, índice, réplica, TER, tracking difference y otros factores sin depender solo de un ranking. ETF y carteras IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Costes de ETF: TER, tracking difference y efecto compuesto",
+    "desc": "Entiende la diferencia entre TER, tracking difference, spread y otros costes, y calcula escenarios ilustrativos con supuestos explícitos.",
+    "category": "ETF y carteras",
+    "color": "violet",
+    "minutes": 8,
+    "url": "guias/entender-ter-y-comisiones-etf/",
+    "keywords": "entender ter y comisiones etf Costes de ETF: TER, tracking difference y efecto compuesto Entiende la diferencia entre TER, tracking difference, spread y otros costes, y calcula escenarios ilustrativos con supuestos explícitos. ETF y carteras IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo revisar la diversificación de una cartera con IA",
+    "desc": "Detecta concentraciones por sector, región, factor y participaciones solapadas con un método verificable y datos agregados.",
+    "category": "ETF y carteras",
+    "color": "violet",
+    "minutes": 7,
+    "url": "guias/diversificacion-cartera-con-ia/",
+    "keywords": "diversificacion cartera con ia Cómo revisar la diversificación de una cartera con IA Detecta concentraciones por sector, región, factor y participaciones solapadas con un método verificable y datos agregados. ETF y carteras IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Rebalancear una cartera con IA: reglas, costes y controles",
+    "desc": "Define una regla de rebalanceo, calcula desviaciones frente a una cartera objetivo y evalúa costes, impuestos y límites antes de operar.",
+    "category": "ETF y carteras",
+    "color": "violet",
+    "minutes": 7,
+    "url": "guias/rebalanceo-cartera-con-ia/",
+    "keywords": "rebalanceo cartera con ia Rebalancear una cartera con IA: reglas, costes y controles Define una regla de rebalanceo, calcula desviaciones frente a una cartera objetivo y evalúa costes, impuestos y límites antes de operar. ETF y carteras IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Analizar un proyecto cripto con IA: checklist de diligencia",
+    "desc": "Revisa un proyecto cripto con documentos oficiales, datos del token, riesgos técnicos y estado regulatorio sin confundir declaraciones con pruebas.",
+    "category": "Cripto y blockchain",
+    "color": "orange",
+    "minutes": 8,
+    "url": "guias/analizar-proyecto-cripto-con-ia/",
+    "keywords": "analizar proyecto cripto con ia Analizar un proyecto cripto con IA: checklist de diligencia Revisa un proyecto cripto con documentos oficiales, datos del token, riesgos técnicos y estado regulatorio sin confundir declaraciones con pruebas. Cripto y blockchain IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo detectar posibles estafas cripto con IA y fuentes oficiales",
+    "desc": "Usa IA para ordenar señales de alerta y verifica empresas, dominios, promesas y proveedores mediante registros y fuentes independientes.",
+    "category": "Cripto y blockchain",
+    "color": "orange",
+    "minutes": 7,
+    "url": "guias/detectar-estafas-cripto-con-ia/",
+    "keywords": "detectar estafas cripto con ia Cómo detectar posibles estafas cripto con IA y fuentes oficiales Usa IA para ordenar señales de alerta y verifica empresas, dominios, promesas y proveedores mediante registros y fuentes independientes. Cripto y blockchain IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Tokenomics: calcular FDV, desbloqueos y concentración",
+    "desc": "Calcula capitalización y FDV, identifica desbloqueos y concentración de tokens, y usa IA para ordenar datos sin inventar una valoración.",
+    "category": "Cripto y blockchain",
+    "color": "orange",
+    "minutes": 7,
+    "url": "guias/analizar-tokenomics-con-ia/",
+    "keywords": "analizar tokenomics con ia Tokenomics: calcular FDV, desbloqueos y concentración Calcula capitalización y FDV, identifica desbloqueos y concentración de tokens, y usa IA para ordenar datos sin inventar una valoración. Cripto y blockchain IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo resumir noticias cripto con IA sin amplificar rumores",
+    "desc": "Organiza noticias cripto con una jerarquía de fuentes, marca fechas, separa rumores de hechos y conserva las rectificaciones.",
+    "category": "Cripto y blockchain",
+    "color": "orange",
+    "minutes": 7,
+    "url": "guias/seguir-noticias-cripto-con-ia/",
+    "keywords": "seguir noticias cripto con ia Cómo resumir noticias cripto con IA sin amplificar rumores Organiza noticias cripto con una jerarquía de fuentes, marca fechas, separa rumores de hechos y conserva las rectificaciones. Cripto y blockchain IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Qué es un NFT y qué puede comprobar una IA",
+    "desc": "Explica qué registra un NFT, qué no demuestra la blockchain y cómo examinar metadatos, procedencia, licencias y riesgos.",
+    "category": "NFT y activos digitales",
+    "color": "pink",
+    "minutes": 7,
+    "url": "guias/que-es-un-nft-analizarlo-con-ia/",
+    "keywords": "que es un nft analizarlo con ia Qué es un NFT y qué puede comprobar una IA Explica qué registra un NFT, qué no demuestra la blockchain y cómo examinar metadatos, procedencia, licencias y riesgos. NFT y activos digitales IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Riesgos de NFT: análisis técnico, jurídico y de liquidez",
+    "desc": "Clasifica riesgos de mercado, técnicos, de custodia y de derechos con IA sin convertir una checklist en una garantía de seguridad.",
+    "category": "NFT y activos digitales",
+    "color": "pink",
+    "minutes": 7,
+    "url": "guias/riesgos-nft-y-analisis-ia/",
+    "keywords": "riesgos nft y analisis ia Riesgos de NFT: análisis técnico, jurídico y de liquidez Clasifica riesgos de mercado, técnicos, de custodia y de derechos con IA sin convertir una checklist en una garantía de seguridad. NFT y activos digitales IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo analizar ventas de NFT con datos y detectar señales falsas",
+    "desc": "Aprende a interpretar volumen, ventas, compradores y precio mínimo de NFT sin confundir actividad aparente con demanda o liquidez real.",
+    "category": "NFT y activos digitales",
+    "color": "pink",
+    "minutes": 7,
+    "url": "guias/analizar-mercado-nft-con-datos/",
+    "keywords": "analizar mercado nft con datos Cómo analizar ventas de NFT con datos y detectar señales falsas Aprende a interpretar volumen, ventas, compradores y precio mínimo de NFT sin confundir actividad aparente con demanda o liquidez real. NFT y activos digitales IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "NFT y derechos de autor: qué demuestra realmente el token",
+    "desc": "Comprende la diferencia entre propiedad del token, acceso al archivo y derechos de autor, y verifica la licencia antes de reutilizar una obra.",
+    "category": "NFT y activos digitales",
+    "color": "pink",
+    "minutes": 7,
+    "url": "guias/nft-derechos-autor-y-licencias/",
+    "keywords": "nft derechos autor y licencias NFT y derechos de autor: qué demuestra realmente el token Comprende la diferencia entre propiedad del token, acceso al archivo y derechos de autor, y verifica la licencia antes de reutilizar una obra. NFT y activos digitales IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo crear alertas financieras con IA sin falsas señales",
+    "desc": "Diseña alertas sobre resultados, noticias y cambios financieros con fuentes originales, umbrales definidos y revisión humana.",
+    "category": "Alertas y automatización",
+    "color": "teal",
+    "minutes": 7,
+    "url": "guias/crear-alertas-financieras-con-ia/",
+    "keywords": "crear alertas financieras con ia Cómo crear alertas financieras con IA sin falsas señales Diseña alertas sobre resultados, noticias y cambios financieros con fuentes originales, umbrales definidos y revisión humana. Alertas y automatización IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Automatizar el seguimiento de inversiones con IA de forma segura",
+    "desc": "Diseña un flujo para seguir posiciones, cambios y fuentes con una hoja de cálculo e IA, sin exponer datos ni activar operaciones automáticas.",
+    "category": "Alertas y automatización",
+    "color": "teal",
+    "minutes": 7,
+    "url": "guias/automatizar-seguimiento-de-inversiones/",
+    "keywords": "automatizar seguimiento de inversiones Automatizar el seguimiento de inversiones con IA de forma segura Diseña un flujo para seguir posiciones, cambios y fuentes con una hoja de cálculo e IA, sin exponer datos ni activar operaciones automáticas. Alertas y automatización IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Backtesting con IA: sesgos, costes y prueba fuera de muestra",
+    "desc": "Aprende a probar estrategias con IA controlando sesgo de anticipación, sobreajuste, costes de transacción y evaluación fuera de muestra.",
+    "category": "Alertas y automatización",
+    "color": "teal",
+    "minutes": 8,
+    "url": "guias/backtesting-estrategias-con-ia/",
+    "keywords": "backtesting estrategias con ia Backtesting con IA: sesgos, costes y prueba fuera de muestra Aprende a probar estrategias con IA controlando sesgo de anticipación, sobreajuste, costes de transacción y evaluación fuera de muestra. Alertas y automatización IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "Cómo usar IA financiera sin exponer datos personales",
+    "desc": "Minimiza información sensible, revisa las condiciones de la herramienta y diseña flujos de análisis financiero más seguros.",
+    "category": "Alertas y automatización",
+    "color": "teal",
+    "minutes": 7,
+    "url": "guias/privacidad-y-seguridad-al-usar-ia-financiera/",
+    "keywords": "privacidad y seguridad al usar ia financiera Cómo usar IA financiera sin exponer datos personales Minimiza información sensible, revisa las condiciones de la herramienta y diseña flujos de análisis financiero más seguros. Alertas y automatización IA análisis financiero inversión método FARO fuente primaria"
+  },
+  {
+    "title": "IA para invertir: qué revela el estudio de la CNMV de 2026",
+    "desc": "Lectura crítica del estudio de la CNMV sobre IA e inversión: metodología, exactitud, límites y protocolo para comprobar cifras con fuentes oficiales.",
+    "category": "Investigación aplicada",
+    "color": "teal",
+    "minutes": 11,
+    "url": "observatorio-ia-inversion-cnmv-2026.html",
+    "keywords": "CNMV IA inversión 2026 estudio modelos de lenguaje ChatGPT Gemini DeepSeek Perplexity IBEX 35 exactitud clasificación método FARO"
+  },
+  {
+    "title": "Auditor FARO de respuestas de IA financiera",
+    "desc": "Evalúa una respuesta por fuente primaria, actualidad, reproducibilidad y omisiones. La puntuación es una checklist editorial, no certifica exactitud.",
+    "category": "Herramientas prácticas",
+    "color": "teal",
+    "minutes": 4,
+    "url": "herramienta-auditoria-faro.html",
+    "keywords": "auditar respuesta IA financiera fuente fecha reproducibilidad FARO"
+  },
+  {
+    "title": "Calculadora de ratios financieros",
+    "desc": "Calcula margen operativo, ratio corriente, deuda neta/EBITDA y ROE con fórmulas visibles y datos introducidos por el usuario.",
+    "category": "Herramientas prácticas",
+    "color": "teal",
+    "minutes": 3,
+    "url": "calculadora-ratios.html",
+    "keywords": "calculadora ratios financieros margen operativo ratio corriente deuda neta EBITDA ROE"
+  },
+  {
+    "title": "Simulador de costes de ETF",
+    "desc": "Compara dos supuestos de costes bajo una rentabilidad constante; no es una predicción ni incluye impuestos o costes de negociación.",
+    "category": "Herramientas prácticas",
+    "color": "teal",
+    "minutes": 3,
+    "url": "calculadora-costes-etf.html",
+    "keywords": "calculadora costes ETF TER comisiones simulador coste anual compuesto"
+  },
+  {
+    "title": "Plantilla de matriz de evidencia financiera (CSV)",
+    "desc": "Descarga una hoja de trabajo para guardar fuente, fecha, página, fórmula, estado de verificación y límites al analizar documentos financieros con IA.",
+    "category": "Herramientas prácticas",
+    "color": "teal",
+    "minutes": 4,
+    "url": "recursos/matriz-evidencia-financiera.html",
+    "keywords": "plantilla evidencia financiera CSV fuente primaria matriz de verificación IA"
+  },
+  {
+    "title": "Protocolo: 12 pruebas para evaluar IA financiera",
+    "desc": "Protocolo reproducible con 12 tareas para comprobar extracción, cálculos, citas, actualidad, reconocimiento de datos ausentes y riesgos de rumores.",
+    "category": "Herramientas prácticas",
+    "color": "teal",
+    "minutes": 7,
+    "url": "recursos/protocolo-pruebas-ia-financiera.html",
+    "keywords": "benchmark IA financiera protocolo reproducible ChatGPT Claude Gemini evaluar citas errores"
+  },
+  {
+    "title": "Cómo auditar un análisis financiero de IA: caso práctico paso a paso",
+    "desc": "Repite un caso con datos sintéticos, revisa margen operativo, deuda neta, apalancamiento y ROE, y detecta errores plausibles con un protocolo de evidencia.",
+    "category": "Acciones y empresas",
+    "color": "green",
+    "minutes": 12,
+    "url": "guias/auditar-errores-ia-financiera/",
+    "keywords": "cómo auditar un análisis financiero con IA, comprobar ratios de ChatGPT, verificar cálculos financieros, dataset sintético, fuente primaria, FARO, auditoría financiera",
+    "content": "caso de auditoría datos sintéticos cálculo margen deuda EBITDA ROE fuente periodos reproducible"
+  },
+  {
+    "title": "Laboratorio de pruebas de IA financiera: compara respuestas con una rúbrica",
+    "desc": "Registra manualmente respuestas, modelo, versión, documento y siete controles de trazabilidad; exporta un CSV local sin enviar datos al servidor.",
+    "category": "Herramientas de IA",
+    "color": "blue",
+    "minutes": 7,
+    "url": "laboratorio-pruebas-ia-financiera.html",
+    "keywords": "laboratorio IA financiera, comparar respuestas IA finanzas, evaluar ChatGPT finanzas, comprobar fuentes IA, rúbrica IA financiera, reproducibilidad, auditoría de IA",
+    "content": "herramienta interactiva manual comparar asistentes fuente primaria unidad periodo calculo trazabilidad exportar csv no conectado a modelos",
+    "type": "tool"
+  },
+  {
+    "title": "Ficha de evidencia financiera: registra fuentes, cálculos y dudas",
+    "desc": "Herramienta gratuita para documentar afirmaciones financieras, fuente primaria, periodo, cálculo reproducido, contradicciones y estado de verificación. Exporta CSV o JSON desde el navegador.",
+    "category": "Herramientas de IA",
+    "color": "blue",
+    "minutes": 5,
+    "url": "herramientas/ficha-evidencia-financiera.html",
+    "keywords": "ficha de evidencia financiera verificación fuentes primarias cálculo ratios IA auditoría trazabilidad FARO exportar CSV JSON"
+  }
+]
