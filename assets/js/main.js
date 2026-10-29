@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const render = () => {
       const q = (qInput.value || '').trim().toLocaleLowerCase('es');
       const matches = q ? items.filter(p => (p.title+' '+p.desc+' '+p.category+' '+p.keywords).toLocaleLowerCase('es').includes(q)) : items;
-      status.textContent = q ? `${matches.length} guía(s) para “${qInput.value.trim()}”` : `${items.length} guías disponibles. Escribe una búsqueda para filtrar.`;
+      status.textContent = q ? `${matches.length} recurso(s) para “${qInput.value.trim()}”` : `${items.length} recursos disponibles. Escribe una búsqueda para filtrar.`;
       results.innerHTML = matches.length ? matches.map(p => `<article class="article-card"><a class="card-link" href="${root}${p.url}"><div class="card-meta"><span class="category-dot dot-${p.color}"></span><span>${p.category}</span><span class="meta-sep">·</span><span>${p.minutes} min</span></div><h3>${p.title}</h3><p>${p.desc}</p><span class="read-link">Leer guía <span aria-hidden="true">↗</span></span></a></article>`).join('') : '<div class="empty-results">No hay coincidencias exactas. Prueba con “ChatGPT”, “ETF”, “cripto”, “NFT” o “alertas”.</div>';
     };
     form.addEventListener('submit', e => { e.preventDefault(); render(); const u = new URL(location.href); u.searchParams.set('q',qInput.value); history.replaceState({},'',u); });
