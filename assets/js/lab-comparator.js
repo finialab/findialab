@@ -68,7 +68,7 @@
     const csv = '\uFEFF' + [headers,...rows].map(row=>row.map(csvCell).join(';')).join('\r\n');
     const blob = new Blob([csv], {type:'text/csv;charset=utf-8'});
     const url = URL.createObjectURL(blob); const a = document.createElement('a');
-    a.href=url; a.download=`finialab-evaluaciones-ia-${new Date().toISOString().slice(0,10)}.csv`;
+    a.href=url; a.download=`findialab-evaluaciones-ia-${new Date().toISOString().slice(0,10)}.csv`;
     document.body.append(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(url),1000);
     const status=el('lab-status'); if(status) status.textContent='CSV exportado al dispositivo. No se ha enviado ningún dato a FindIA Lab.';
   }
