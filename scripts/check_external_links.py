@@ -18,7 +18,9 @@ PROTECTED_STATUSES = {401, 403, 429}
 
 def collect_urls() -> set[str]:
     urls: set[str] = set()
-    for path in (ROOT / "guias").rglob("index.html"):
+    for path in ROOT.rglob("*.html"):
+        if path.name in {"404.html", "buscar.html"}:
+            continue
         text = path.read_text(encoding="utf-8")
         for match in URL_PATTERN.finditer(text):
             url = match.group(1).replace("&amp;", "&")
