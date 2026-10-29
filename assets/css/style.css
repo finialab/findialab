@@ -11,6 +11,7 @@
 
 /* Ampliaciones editoriales: lectura clara y jerarquía consistente */
 .article-body .expanded-research{border-top:1px solid var(--line);padding-top:7px;margin-top:28px}.article-body .expanded-research h2{font-size:23px}.article-body .expanded-research h3{font-size:15px;margin-top:18px}.article-body .expanded-research li{font-size:14px}.article-body .expanded-research a{overflow-wrap:anywhere}
+.editorial-transparency{margin-top:24px;padding:18px 20px;background:#f7f9fb;border:1px solid var(--line);border-left:3px solid #83a96a;border-radius:0 14px 14px 0;color:#4b596b;font-size:12px;line-height:1.7}.editorial-transparency strong{display:block;color:var(--ink);font-size:13px;margin-bottom:7px}.editorial-transparency p{font-size:12px;line-height:1.7;margin:0 0 8px}.editorial-transparency p:last-child{margin-bottom:0}.editorial-transparency a{font-weight:700}.source-review-note{color:#667789}
 
 /* ===== Editorial publisher layout v3 ===== */
 .hero-editorial{padding:58px 0 50px;background:radial-gradient(ellipse at 92% 10%,rgba(199,243,106,.15),transparent 34%),linear-gradient(180deg,#fff 0%,#f6f8fa 100%)}
