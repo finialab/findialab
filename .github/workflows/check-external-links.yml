@@ -1,6 +1,10 @@
 name: Check external links
 
 on:
+  push:
+    paths:
+      - ".github/workflows/check-external-links.yml"
+      - "scripts/check_external_links.py"
   schedule:
     - cron: "0 9 1 * *"
   workflow_dispatch:
